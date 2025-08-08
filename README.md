@@ -16,10 +16,12 @@ Outside programming world, I love cooking and baking.I also enjoy watching tech-
 
 Feel free to connect with me _@myriahvielle_ for all the things related to techonology or simply drop and say hello! I am looking forward in shaping the future of technology with you. 🌟
 
-### Talking about Personal Stuff:
+<img align="right" height="250" width="375" alt="Coder and a Designer" src="https://cdn.dribbble.com/userupload/42255623/file/original-467201a6fa10fa4ce250bd99347237e8.gif" />
 
-- 🛠 &nbsp; I’m currently working with Javascript, Django
+### Talking about Personal Stuff:
+- 🛠 &nbsp; I’m currently curious with Javascript, Django
 - 🚀 &nbsp; I’m currently exploring Artificial Intelligence and Data Science
+- 💕 &nbsp; I'm currently looking for my coder. 
 - 👾 &nbsp; Fun fact: I got into tech for the design and insights... but programming keeps trying to win me over (it's still losing).
 - 📫 &nbsp; Reach me out: myriahvielle619@gmail.com.
 

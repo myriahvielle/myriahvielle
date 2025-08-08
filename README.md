@@ -8,7 +8,7 @@
 ### Glad to see you here! 
 I am a passionate aspiring **UI/UX Designer and Business Analyst,** currently a dedicated student pursuing a **Bachelor of Science in Information Systems (BSIS).**
 
-I am passionate to problem-solving and solving situations by analysis. Driven by purpose, I have been building core skills in technologies such as ** HTML, CSS, Python, PHP, and the Laravel framework.**
+I am passionate to problem-solving and solving situations by analysis. Driven by purpose, I have been building core skills in technologies such as **HTML, CSS, Python, PHP, and the Laravel framework.**
 
 I'm an explorer of new technologies, an avid learner, a graphic designer, and a problem-solver at heart. You can ask me about user flows or dashboards — just don’t ask me why my code isn’t working! 😄
 
